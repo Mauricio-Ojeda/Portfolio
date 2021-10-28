@@ -4,7 +4,7 @@ import data from "../yourdata"
 
 const Header = () => {
   return (
-    <div className="section" id="home">
+    <div className="section " id="home">
       <div className="container">
         <div className="header-wrapper">
           <Fade bottom>
@@ -50,7 +50,7 @@ const Header = () => {
             </a>
           </Fade>
         </div>
-      </div>
+      </div>      
     </div>
   )
 }
