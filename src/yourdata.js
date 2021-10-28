@@ -43,7 +43,7 @@ export default {
         "App para conocer los valores de las cryptos mas conocidas", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.ibb.co/6wm2fh6/Cotizador-de-Criptomonedas.png",
+        "https://i.ibb.co/hsTJb00/Cotizador-de-Criptomonedas.png",
       //Project URL - Add Your Project Url Here
       url: "https://api-crypto-react.netlify.app",
     },
@@ -53,7 +53,7 @@ export default {
         "Buscador de clima, usando la API de  OpenWeatherMap", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.ibb.co/Q7WbQc9/Clima-App.png",
+        "https://i.ibb.co/ss33yWQ/Clima-App.png",
       //Project URL - Add Your Project Url Here
       url: "https://clima-react-app-1.netlify.app",
     },
@@ -63,7 +63,7 @@ export default {
         "Buscador de bebidas por ingrediente o categorias", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.ibb.co/x3m8ZBx/buscador-bebidas.png",
+        "https://i.ibb.co/NWcFh0P/buscador-bebidas.png",
       //Project URL - Add Your Project Url Here
       url: "https://buscador-de-bebidas-react.netlify.app",
     },    
@@ -83,7 +83,7 @@ export default {
         "Juego de BlackJack desarrollado con JavaScript Vanilla", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.ibb.co/PrZbX8S/black-Jack.png",
+        "https://i.ibb.co/sKGzQ5p/black-Jack.png",
       //Project URL - Add Your Project Url Here
       url: "https://mauricio-ojeda.github.io/BlackJack/",
     },
@@ -107,9 +107,9 @@ export default {
   aboutParaTwo:
     "Siempre me gusto intentar arreglar cosas, de chico me gustaba desarmar todo para ver si podia repararlo y con la programacion tenia todo al alcance de la mano, lamentablemente abandone la facultad y fue algo de lo cual  siempre me arrepenti.",
   aboutParaThree:
-    "Asi que decidi tomar cartas en el asunto y despues de armar un ecommerce en Wordpress con woocommerce para un proyecto Familiar, comence a estudiar sobre desarrollo web realizando ditintos cursos de manera autodidacta. Me encanta estudiar y estoy dispuesto aprender todo lo necesario para poder insertarme en la industria IT.",
+    "Asi que decidi tomar cartas en el asunto y despues de armar un ecommerce en Wordpress para un proyecto Familiar, comence a estudiar sobre desarrollo web realizando ditintos cursos de manera autodidacta. Me encanta estudiar y estoy dispuesto aprender todo lo necesario para poder insertarme en la industria IT.",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://i.ibb.co/MkXBtGv/IMG-20211008-140601.jpg",
 
   //   End About Section ---------------------
 

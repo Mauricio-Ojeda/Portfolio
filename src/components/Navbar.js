@@ -11,12 +11,12 @@ const Navbar = () => {
             className="name"
             tabIndex={0}
           >
-            Portfolio.
+               Mauricio Ojeda
           </div>
           <div className="links-wrapper">
-            <button onClick={() => scrollTo("#work")}>Work</button>
-            <button onClick={() => scrollTo("#about")}>About</button>
-            <button onClick={() => scrollTo("#contact")}>Contact</button>
+            <button onClick={() => scrollTo("#work")}>Proyectos</button>
+            <button onClick={() => scrollTo("#about")}>Acerca de mi</button>
+            <button onClick={() => scrollTo("#contact")}>Contactame</button>
           </div>
         </div>
       </div>

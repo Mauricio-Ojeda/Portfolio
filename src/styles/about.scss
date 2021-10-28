@@ -27,7 +27,7 @@
 
     h1 {
       font-size: 3rem;
-      line-height: 20px;
+      line-height: 2.5rem;
       @include media(">=tablet", "<desktop") {
         text-align: center;
       }
@@ -39,19 +39,23 @@
     }
   }
   .image-wrapper {
-    width: 50%;
+    width: 30%;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    @include media(">=phone", "<lgphone") {
+    img{
       width: 100%;
+      height: auto;
+    }
+    @include media(">=phone", "<lgphone") {
+      width: 50%;
     }
     @include media(">=lgphone", "<tablet") {
-      width: 100%;
+      width: 50%;
     }
     @include media(">=tablet", "<desktop") {
-      width: 100%;
+      width: 50%;
     }
   }
 }
