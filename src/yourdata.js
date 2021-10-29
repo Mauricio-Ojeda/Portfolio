@@ -144,7 +144,7 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Conoceme un poco mas",
+  promotionHeading: "Conoceme mas",
   promotionPara:
     "Si quienes concocer un poco mas sobre mi perfil y sobre mi codigo te dejo los links de mis redes. Espero que podamos trabajar juntos.",
   // End Promotion Section -----------------

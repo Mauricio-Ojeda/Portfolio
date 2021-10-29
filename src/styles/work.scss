@@ -8,6 +8,18 @@
     font-size: 3rem;
     line-height: 20px;
     margin-bottom: 4vh;
+    @include media(">=phone", "<lgphone") {
+      font-size: 1.5rem;
+      line-height: 1.5rem;        
+    }
+    @include media(">=lgphone", "<tablet") {
+      font-size: 1.5rem;
+      line-height: 1.5rem;
+      
+    }
+    @include media(">=tablet", "<desktop") {
+      font-size: 2.5rem;
+    }
   }
   .work-title{
     margin-bottom: 15vh;
