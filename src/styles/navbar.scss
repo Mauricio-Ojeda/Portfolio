@@ -6,15 +6,17 @@
   justify-content: space-between;
   .name {
     font-weight: 600;
+    cursor: pointer;
   }
   .links-wrapper {
     button {
+      color: #ffffff;
       text-decoration: none;
       padding: 8px;
       font-family: "Open Sans";
-      opacity: 0.6;
+      font-size: 1rem;      
+      opacity: 0.8;
       transition: all 0.2s ease-in-out;
-      font-size: 1rem;
       background-color: transparent;
       outline: none;
       border: 0px;

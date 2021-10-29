@@ -4,7 +4,7 @@ import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 
-import codeIcon from "./images/code.svg"
+
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -144,9 +144,9 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
+  promotionHeading: "Conoceme un poco mas",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Si quienes concocer un poco mas sobre mi perfil y sobre mi codigo te dejo los links de mis redes. Espero que podamos trabajar juntos.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
