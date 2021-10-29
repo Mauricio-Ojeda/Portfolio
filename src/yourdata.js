@@ -102,11 +102,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Desde que conoci los algoritmos, haya en el 2005 como ingresante de la Licenciatura en Informatica de la UNLP, me enamore de la programacion.",
+    "Hace mas de un año por un proyecto Familiar de venta online, tuve que crear un ecommerce y despues de mucho investigar decidi hacerlo en Wordpress con woocommerce. Lo pude lograr pero por la inesperiencia cometi muchos errores. Asi que decidi que la mejor forma era estudiar como hacerlo yo mismo.",
   aboutParaTwo:
-    "Siempre me gusto intentar arreglar cosas, de chico me gustaba desarmar todo para ver si podia repararlo y con la programacion tenia todo al alcance de la mano, lamentablemente abandone la facultad y fue algo de lo cual  siempre me arrepenti.",
+    "Siempre me habia gustado la tecnologia y la programacion de hecho curse parte del primer año de la fucultad de informatica de la UNLP en el 2005. Al intentar aprender sobre desarrollo Web conoci un mundo grandisimo pero mas me metia y mas me gustaba.",
   aboutParaThree:
-    "Asi que decidi tomar cartas en el asunto y despues de armar un ecommerce en Wordpress para un proyecto Familiar, comence a estudiar sobre desarrollo web realizando ditintos cursos de manera autodidacta. Me encanta estudiar y estoy dispuesto aprender todo lo necesario para poder insertarme en la industria IT.",
+    "Hoy puedo decir con seguridad que amo programar y dar solucion a los problemas. Y que cada dia quiero aprender mas reforzando lo que se y aprendiendo cosas nuevas. ",
   aboutImage:
     "https://i.ibb.co/MkXBtGv/IMG-20211008-140601.jpg",
 
