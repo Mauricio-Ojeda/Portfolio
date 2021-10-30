@@ -12,7 +12,11 @@ import Footer from "../components/Footer"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Portfolio Template" />
+    <SEO 
+      title="Mauricio Ojeda Portfolio" 
+      description="Portfolio personal de Mauricio Ojeda"
+      lang="es"
+      />
     <Header></Header>
     <Work></Work>
     <About></About>
