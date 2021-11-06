@@ -50,14 +50,15 @@ p{
 
 .primary-btn {
   margin: 10px;
-  padding: 10px;
+  padding: 11px;
   background-color: black;
   color: white;
   border: 0px;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
-  cursor: pointer;
+  cursor: pointer;  
   &:hover {
-    transform: scale(1.1);
+    transform: scale(1.5);
+    background-color: rgb(42, 42, 42);
   }
 }
