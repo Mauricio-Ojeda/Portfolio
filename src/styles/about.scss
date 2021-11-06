@@ -30,25 +30,29 @@
       font-size: 3rem;
       line-height: 2.5rem;
       @include media(">=phone", "<lgphone") {
-        font-size: 1.5rem;
-        line-height: 1.5rem;
+        font-size: 1.7rem;
+        line-height: 1.7rem;
         text-align: center;        
       }
       @include media(">=lgphone", "<tablet") {
-        font-size: 1.5rem;
-        line-height: 1.5rem;
+        font-size: 1.7rem;
+        line-height: 1.7rem;
         text-align: center; 
         
       }
       @include media(">=tablet", "<desktop") {
-        font-size: 2.5rem;
+        font-size: 2.7rem;
         text-align: center; 
       }
     }
     p {
-      @include media(">=tablet", "<desktop") {
+      @include media(">=phone", "<tablet") {
+        font-size: 1.1rem;
         text-align: center;
       }
+      // @include media(">=tablet", "<desktop") {
+      //   text-align: center;
+      // }
     }
   }
   .image-wrapper {
@@ -64,17 +68,17 @@
     @include media(">=phone", "<lgphone") {
       width: 70%;
       display: block;
-      margin: 0 auto;
+      margin: 1rem auto;
     }
     @include media(">=lgphone", "<tablet") {
       width: 65%;
       display: block;
-      margin: 0 auto;
+      margin: 1rem auto;
     }
     @include media(">=tablet", "<desktop") {
       width: 60%;
       display: block;
-      margin: 0 auto;
+      margin: 1rem auto;
     }
   }
 }

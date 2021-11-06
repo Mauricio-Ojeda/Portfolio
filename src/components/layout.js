@@ -6,13 +6,14 @@
  */
 
 import React from "react"
-import Navbar from "./Navbar"
+import NavbarMenu from "./NavbarMenu"
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "../styles/mains.scss"
 
 const Layout = ({ children }) => {
   return (
     <>
-      <Navbar></Navbar>
+      <NavbarMenu></NavbarMenu>
       <main>{children}</main>
     </>
   )

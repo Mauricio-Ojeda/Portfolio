@@ -18,7 +18,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           href={projectLink ? projectLink : "#"}
           target="_blank"
           rel="noopener noreferrer"
-          className="primary-btn"
+          className="secondary-btn"
         >
           Explorar
         </a>

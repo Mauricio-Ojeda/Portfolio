@@ -26,8 +26,7 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/programmer-icon.png`, // This path is relative to the root of the site.
       },
-    },    
-    `gatsby-plugin-fontawesome-css`,    
+    },
     `gatsby-plugin-sass`,
     `gatsby-plugin-smoothscroll`,
     // this (optional) plugin enables Progressive Web App + Offline functionality

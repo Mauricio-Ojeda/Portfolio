@@ -2,6 +2,7 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 
+
 const Header = () => {
   return (
     <div className="section " id="home">
@@ -47,7 +48,7 @@ const Header = () => {
                   }`}
                   className="primary-btn"
                 >
-                  CONTACTA CONMIGO
+                  Contacta Conmigo
                 </a>
               </Fade>
             </div>

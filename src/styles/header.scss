@@ -10,35 +10,35 @@
     
 
     h2 {
-      font-size: 2rem;
+      font-size: 2.2rem;
       text-align: center;
       @include media(">=phone", "<lgphone") {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
       }
       @include media(">=lgphone", "<tablet") {
-        font-size: 1.2px;
+        font-size: 1.3rem;
       }
       @include media(">=tablet", "<desktop") {
-        font-size: 1.8px;
+        font-size: 1.3rem;
       }
     }
     .heading-wrapper {
       h1 {
-        font-size: 3.5rem;
+        font-size: 4rem;
         text-align: center;
-        line-height: 3.5rem;
-        margin-bottom: 1rem;
+        line-height: 4.2rem;
+        font-weight: bold;
         @include media(">=phone", "<lgphone") {
-          font-size: 1.5rem;
-          line-height: 1.5rem;        
+          font-size: 1.6rem;
+          line-height: 1.6rem;        
         }
         @include media(">=lgphone", "<tablet") {
-          font-size: 1.5rem;
-          line-height: 1.5rem;
+          font-size: 1.6rem;
+          line-height: 1.6rem;
           
         }
         @include media(">=tablet", "<desktop") {
-          font-size: 2.5rem;
+          font-size: 2.7rem;
         }
       }
     }

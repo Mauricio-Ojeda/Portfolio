@@ -8,7 +8,8 @@ import Work from "../components/Work"
 import About from "../components/about"
 import Skills from "../components/skills"
 import Promotion from "../components/Promotion"
-import Footer from "../components/Footer"
+import Footer from "../components/Footer";
+
 
 const IndexPage = () => (
   <Layout>

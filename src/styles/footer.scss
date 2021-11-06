@@ -9,30 +9,30 @@
     font-size: 3rem;
     line-height: 20px;
     @include media(">=phone", "<lgphone") {
-      font-size: 1.5rem;
-      line-height: 1.5rem;
+      font-size: 1.7rem;
+      line-height: 1.7rem;
       text-align: justify;        
     }
     @include media(">=lgphone", "<tablet") {
-      font-size: 1.5rem;
-      line-height: 1.5rem;
+      font-size: 1.7rem;
+      line-height: 1.7rem;
       
     }
     @include media(">=tablet", "<desktop") {
-      font-size: 2.5rem;
+      font-size: 2.7rem;
     }
   }
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     overflow: hidden;
     @include media(">=phone", "<lgphone") {
       display: none;
     }
     @include media(">=lgphone", "<tablet") {
-      font-size: 14px;
+      font-size: 1.5rem;
     }
     @include media(">=tablet", "<desktop") {
-      font-size: 1.2rem;
+      font-size: 1.6rem;
     }
   }
   .email-link {
