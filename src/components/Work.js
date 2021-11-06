@@ -17,7 +17,7 @@ const Work = () => {
             <Fade bottom cascade>
               {data.projects.map((project, index) => (
                 <Card
-                  key={index}
+                  key={index + project.title}
                   heading={project.title}
                   paragraph={project.para}
                   imgUrl={project.imageSrc}
