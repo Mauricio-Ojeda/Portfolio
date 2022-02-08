@@ -3,8 +3,8 @@ import htmlIcon from "./images/html5.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
-
-
+import sass from "./images/sassblanco.svg"
+import redux from "./images/reduxblanco.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -37,56 +37,54 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Cotizador de Criptomonedas", //Project Title - Add Your Project Title Here
-      para:
-        "App para conocer los valores de las cryptos mas conocidas", // Add Your Service Type Here
+      title: "Journal", //Project Title - Add Your Project Title Here
+      para: "Registra tus actividades diarias", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.ibb.co/hsTJb00/Cotizador-de-Criptomonedas.png",
+      imageSrc: "https://i.ibb.co/gvK353H/vista-usuario.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://journal-app-41c42.web.app/auth/login",
+    },
+    {
+      title: "Cotizador de Criptomonedas", //Project Title - Add Your Project Title Here
+      para: "App para conocer los valores de las cryptos mas conocidas", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: "https://i.ibb.co/hsTJb00/Cotizador-de-Criptomonedas.png",
       //Project URL - Add Your Project Url Here
       url: "https://api-crypto-react.netlify.app",
     },
     {
       title: "Buscador de Clima", //Project Title - Add Your Project Title Here
-      para:
-        "Buscador de clima, usando la API de  OpenWeatherMap", // Add Your Service Type Here
+      para: "Buscador de clima, usando la API de  OpenWeatherMap", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.ibb.co/ss33yWQ/Clima-App.png",
+      imageSrc: "https://i.ibb.co/ss33yWQ/Clima-App.png",
       //Project URL - Add Your Project Url Here
       url: "https://clima-react-app-1.netlify.app",
     },
     {
       title: "Buscador de Bebidas", //Project Title - Add Your Project Title Here
-      para:
-        "Buscador de bebidas por ingrediente o categorias", // Add Your Service Type Here
+      para: "Buscador de bebidas por ingrediente o categorias", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.ibb.co/NWcFh0P/buscador-bebidas.png",
+      imageSrc: "https://i.ibb.co/NWcFh0P/buscador-bebidas.png",
       //Project URL - Add Your Project Url Here
       url: "https://buscador-de-bebidas-react.netlify.app",
-    },    
+    },
     {
       title: "Simon Game", //Project Title - Add Your Project Title Here
-      para:
-        "Juego Simon desarrollado con JavaScript Vanilla y jquery", // Add Your Service Type Here
+      para: "Juego Simon desarrollado con JavaScript Vanilla y jquery", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.ibb.co/2jDgdFc/Simon-Game.png",
+      imageSrc: "https://i.ibb.co/2jDgdFc/Simon-Game.png",
       //Project URL - Add Your Project Url Here
       url: "https://mauricio-ojeda.github.io/Simon-Game/",
     },
     {
       title: "BlackJack", //Project Title - Add Your Project Title Here
-      para:
-        "Juego de BlackJack desarrollado con JavaScript Vanilla", // Add Your Service Type Here
+      para: "Juego de BlackJack desarrollado con JavaScript Vanilla", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.ibb.co/sKGzQ5p/black-Jack.png",
+      imageSrc: "https://i.ibb.co/sKGzQ5p/black-Jack.png",
       //Project URL - Add Your Project Url Here
       url: "https://mauricio-ojeda.github.io/BlackJack/",
     },
-    
+
     /*
     If You Want To Add More Project just Copy and Paste This At The End
     ,{
@@ -107,8 +105,7 @@ export default {
     "Siempre me habia gustado la tecnologia y la programacion de hecho curse parte del primer año de la fucultad de informatica de la UNLP en el 2005. Al intentar aprender sobre desarrollo Web conoci un mundo grandisimo pero mas me metia y mas me gustaba.",
   aboutParaThree:
     "Hoy puedo decir con seguridad que amo programar y dar solucion a los problemas. Y que cada dia quiero aprender mas reforzando lo que se y aprendiendo cosas nuevas. ",
-  aboutImage:
-    "https://i.ibb.co/MkXBtGv/IMG-20211008-140601.jpg",
+  aboutImage: "https://i.ibb.co/MkXBtGv/IMG-20211008-140601.jpg",
 
   //   End About Section ---------------------
 
@@ -119,25 +116,28 @@ export default {
   skills: [
     {
       img: htmlIcon,
-      para:
-        "HTML5",
+      para: "HTML5",
     },
     {
       img: cssIcon,
-      para:
-        "CSS3",
+      para: "CSS3",
     },
     {
       img: jsIcon,
-      para:
-        "JavaScript",
+      para: "JavaScript",
     },
     {
       img: reactIcon,
-      para:
-        "React",
-    },   
-    
+      para: "React",
+    },
+    {
+      img: redux,
+      para: "Redux",
+    },
+    {
+      img: sass,
+      para: "Sass",
+    },
   ],
 
   // End Skills Section --------------------------
